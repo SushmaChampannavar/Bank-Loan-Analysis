@@ -47,8 +47,6 @@ Incudes some intersting code/ features worked with SQL.
 - Reduce unverified payments by implementing sticter verification protocols.
 - introduce automated tools to handle routine or small transations efficiently.
 - focus verification efforts on high-value or high risk transactions to reduce potential risk.
-- 
-- 
 
 ### KPI.4
 - signiicant peaks in the years 2009 and 2012 could indicate economic events influencing loan activities.
