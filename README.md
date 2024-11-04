@@ -2,7 +2,7 @@
 
 ### Project overview
 - created an interactive power BI dashboard.
-- utilized SQL for efficient data etraction and querying,which allowed us to handle large volumes of banking data.
+- utilized SQL for efficient data extraction and querying,which allowed us to handle large volumes of banking data.
 - emplyoed Excel for initial data cleaning and preparation, ensuring smooth integration with power BI. for advanced visualization.
 
 ### Data Source
@@ -10,7 +10,7 @@ Bank Data: the primary dataset used for this analysis is the "Finance_1.xlsx" an
 
 ### Tools
 - SQL: Data Analysis
-- Power BI: data cleaning and Creating dashboards
+- Power BI and excel: data cleaning and Creating dashboards
 
 ### Data cleaning/Preparation
 In the initial data preparation phase, we performed the following tasks.
