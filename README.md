@@ -65,4 +65,4 @@ In the initial data preparation phase, we performed the following tasks.
 ### CONCLUSION
 - High loan demand in specific states and concentration of moderate- risk (grade B and c) borrowers,with most loans unverified,posing risks.Mortgage and rent holders dominate loan applications, suggesting tailored loan opportunities for them, while renters also show growth potential. the decline in loan activity post -2014 calls for further investigation into market trends.stregthening verification and refining loan offerings based on borrower profiles could enhance performance and risk management.
 
-  
+you can view dashboard from here :
