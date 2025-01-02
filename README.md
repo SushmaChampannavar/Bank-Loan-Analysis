@@ -2,7 +2,7 @@
 
 ### PROJECT OVERVIEW
 - this includes the analysing bank loan data and provide insights into loan applications, funding distribution and borrower profiles across various dimensions.
-- the main aim is to assist bank management in understanding loan distribution,idendifyinf risk factors, and making data-driven decisions on loan policies,marketing statergies and risk management.
+- the main aim is to assist bank management in understanding loan distribution,identifying risk factors, and making data-driven decisions on loan policies,marketing statergies and risk management.
 
 ### TOOLS
 - Power BI : data cleaning and Creating dashboards
